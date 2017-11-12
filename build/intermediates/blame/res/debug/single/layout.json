@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\layout\\text_dialog.xml",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\layout\\text_dialog.xml"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_native_video.xml",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\layout\\activity_native_video.xml"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_spot_ad.xml",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\layout\\activity_spot_ad.xml"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_ad.xml",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\layout\\activity_video_ad.xml"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_video_info.xml",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\layout\\layout_video_info.xml"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_slideable_spot_ad.xml",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\layout\\activity_slideable_spot_ad.xml"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_native_spot_ad.xml",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\layout\\activity_native_spot_ad.xml"
+    }
+]

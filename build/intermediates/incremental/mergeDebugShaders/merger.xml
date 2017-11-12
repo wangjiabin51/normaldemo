@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\working_svn\project\youmi_android_sdk_v7.5.0_2017-07-18\YoumiAndroidSdk\demo\normaldemo\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\working_svn\project\youmi_android_sdk_v7.5.0_2017-07-18\YoumiAndroidSdk\demo\normaldemo\build-types\debug\shaders"/></dataSet></merger>

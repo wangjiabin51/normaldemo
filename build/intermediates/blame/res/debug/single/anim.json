@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\anim\\anim_dialog_enter.xml",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\anim\\anim_dialog_enter.xml"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\anim\\anim_dialog_exit.xml",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\anim\\anim_dialog_exit.xml"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\anim\\anim_splash_enter.xml",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\anim\\anim_splash_enter.xml"
+    }
+]

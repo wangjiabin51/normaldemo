@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_background.xml",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\drawable\\btn_background.xml"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_normal.xml",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\drawable\\btn_normal.xml"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pressed.xml",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\drawable\\btn_pressed.xml"
+    }
+]

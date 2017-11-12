@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.youmi.android.addemo"
+    android:versionCode="740"
+    android:versionName="7.4.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="24" />
+    <!-- 配置权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- 如果使用积分墙广告,还需要配置下面权限 -->
+    <uses-permission
+        android:name="android.permission.GET_TASKS"
+        android:maxSdkVersion="20" />
+    <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS" /> <!-- 以下为可选权限 -->
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.youmi.android.addemo.BaseActivity" >
+        </activity>
+        <activity
+            android:name="com.youmi.android.addemo.SplashActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.youmi.android.addemo.MainActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.youmi.android.addemo.SpotAdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.youmi.android.addemo.SlideableSpotAdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.youmi.android.addemo.NativeSpotAdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.youmi.android.addemo.VideoAdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout"
+            android:label="@string/app_name"
+            android:resizeableActivity="false"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.youmi.android.addemo.NativeVideoAdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <!-- 视频组件 -->
+        <activity
+            android:name="net.youmi.android.nm.vdo.VideoActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout"
+            android:resizeableActivity="false"
+            android:screenOrientation="landscape"
+            android:taskAffinity=""
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+
+        <!-- 有米SDK为了兼容Android N应用间共享文件行为变更而需要配置的FileProvider -->
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.youmi.android.addemo.fileProvider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_provider" />
+        </provider>
+
+        <!-- 有米渠道号(可选配置) 渠道号不能带空格，类型为整数 -->
+        <meta-data
+            android:name="YOUMI_CHANNEL"
+            android:value="0" >
+        </meta-data>
+
+        <activity
+            android:name="net.youmi.android.AdBrowser"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|smallestScreenSize|screenLayout"
+            android:resizeableActivity="false"
+            android:theme="@android:style/Theme.Light.NoTitleBar" >
+        </activity>
+
+        <service
+            android:name="net.youmi.android.AdService"
+            android:exported="false" >
+        </service>
+        <service
+            android:name="net.youmi.android.ExpService"
+            android:exported="false" >
+        </service>
+
+        <receiver android:name="net.youmi.android.AdReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

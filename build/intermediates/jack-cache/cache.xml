@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\bin\.android\build-cache\f35f188e910d3c07f47ef30c65812d354f9f2abd\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\working_svn\project\youmi_android_sdk_v7.5.0_2017-07-18\YoumiAndroidSdk\demo\normaldemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-3accaa91337a7a0ede6d72f072cbac54a8263b89.jar" />
+    </item>
+    <item
+        jar="C:\Users\bin\.android\build-cache\dc4140b21264fa3e797e5273486a5fc8c82978f9\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\working_svn\project\youmi_android_sdk_v7.5.0_2017-07-18\YoumiAndroidSdk\demo\normaldemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e25677c4fd086dacdfd8cdb246dac44b8932cd72.jar" />
+    </item>
+    <item
+        jar="C:\Users\bin\.android\build-cache\f68cdef986652ab3f0ab3691b992ed8102cca0d3\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="2e924678e6ca631f46c01de1e0af081f1a3489f9">
+        <dex dex="E:\working_svn\project\youmi_android_sdk_v7.5.0_2017-07-18\YoumiAndroidSdk\demo\normaldemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-82703f0ca9d03c564c3336afa4885b8a1e5f1e70.jar" />
+    </item>
+    <item
+        jar="C:\Users\bin\.android\build-cache\f4b9242681eefb430e5af17ce7247f452d0b62ae\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\working_svn\project\youmi_android_sdk_v7.5.0_2017-07-18\YoumiAndroidSdk\demo\normaldemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-93e9d97d1dab1040fda27ae729758907713d079f.jar" />
+    </item>
+    <item
+        jar="C:\Users\bin\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\working_svn\project\youmi_android_sdk_v7.5.0_2017-07-18\YoumiAndroidSdk\demo\normaldemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-25.3.1-a604f902ce9f684730102ce24d0f83773c282056.jar" />
+    </item>
+    <item
+        jar="C:\Users\bin\AppData\Local\Android\Sdk\platforms\android-24\optional\org.apache.http.legacy.jar"
+        revision="25.0.2"
+        sha1="b633f2991f9d792d29d23312229f27850f519544">
+        <dex dex="E:\working_svn\project\youmi_android_sdk_v7.5.0_2017-07-18\YoumiAndroidSdk\demo\normaldemo\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-9bb8709d53890bc3476aade8bb93f86e100cab4e.jar" />
+    </item>
+    <item
+        jar="C:\Users\bin\.android\build-cache\6d7e018f517f5fa011d39bcf8bd904cc15fedce4\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\working_svn\project\youmi_android_sdk_v7.5.0_2017-07-18\YoumiAndroidSdk\demo\normaldemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-703bf0f72f933c24f5b80d095243c8780c0c213d.jar" />
+    </item>
+    <item
+        jar="C:\Users\bin\.android\build-cache\dd1ada10ee7d3ab0fd3842851a8ed56fdf148152\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\working_svn\project\youmi_android_sdk_v7.5.0_2017-07-18\YoumiAndroidSdk\demo\normaldemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-cb0fdc4911e74f7ad707a6ab6987d74f7573340b.jar" />
+    </item>
+    <item
+        jar="C:\Users\bin\.android\build-cache\5ab59251347d95d2b28c62558ca5adbabbe182f3\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\working_svn\project\youmi_android_sdk_v7.5.0_2017-07-18\YoumiAndroidSdk\demo\normaldemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-92f42b6f0bbb18d51e215a688749f3f82018c508.jar" />
+    </item>
+    <item
+        jar="C:\Users\bin\AppData\Local\Android\Sdk\platforms\android-24\android.jar"
+        revision="25.0.2"
+        sha1="1311cbfaf9f46b5700b213534bccdc789794b057">
+        <dex dex="E:\working_svn\project\youmi_android_sdk_v7.5.0_2017-07-18\YoumiAndroidSdk\demo\normaldemo\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-471e831e405a135a30679ad45bb75b9f02464641.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background.png",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\star_half.png",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\drawable-hdpi\\star_half.png"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\star_full.png",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\drawable-hdpi\\star_full.png"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_exit_dialog.png",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\drawable-hdpi\\bg_exit_dialog.png"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_divider.png",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\drawable-hdpi\\bg_divider.png"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_download.png",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\drawable-hdpi\\btn_download.png"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\star_empty.png",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\drawable-hdpi\\star_empty.png"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_activity.png",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\drawable-hdpi\\bg_activity.png"
+    },
+    {
+        "merged": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\working_svn\\project\\youmi_android_sdk_v7.5.0_2017-07-18\\YoumiAndroidSdk\\demo\\normaldemo\\res\\drawable-hdpi\\icon.png"
+    }
+]
